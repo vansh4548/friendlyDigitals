@@ -17,7 +17,7 @@ import {
   useNavigate,
 } from "react-router-dom";
 import logo from "./assets/loogo.png";
-import "./app.css";
+import "./App.css";
 import {
   Code,
   BarChart3,
