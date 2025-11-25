@@ -16,7 +16,7 @@ import WhyUsPage from "./pages/WhyUsPage";
 import ContactPage from "./pages/ContactPage";
 
 // Styles
-import "./app.css";
+import "./App.css";
 
 // Register GSAP plugins
 gsap.registerPlugin(ScrollTrigger);
