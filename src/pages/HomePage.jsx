@@ -64,7 +64,6 @@ const HomePage = () => {
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button
-                  as={Link}
                   to="/contact"
                   size="lg"
                   icon={ArrowRight}

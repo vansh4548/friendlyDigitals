@@ -1,7 +1,7 @@
 export const companyInfo = {
   name: "FriendlyDigitals",
-  email: "contact@friendlydigitals.com",
-  phone: "+1 (555) 123-4567",
+  email: "info@friendlydigitals.com",
+  phone: "+91 9199684801",
   address: "123 Business Park, Tech District",
 };
 
